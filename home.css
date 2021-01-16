@@ -1,0 +1,64 @@
+body{
+    background: url("jiji.png") no-repeat;
+	background-size: cover;
+	font-family: arial;
+	color: white;
+}
+ul{
+    margin: 0px;
+	padding: 0px;
+	list-style: none;
+	
+}
+ul li{
+	float: center;
+	float:right;
+	width: 266.6px;
+	height: 40px;
+	background-color: black;
+	opacity:.8;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	margin-right: 0px;
+	margin-top: .1px;
+	margin-left: 0px;
+	
+}
+ul li a {
+	text-decoration: none;
+	color: white;
+	display: block;
+	
+}
+
+ul li a:hover {
+	background-color:lightblue;	
+}
+ul li ul li {
+	display: none;	
+}
+ul li:hover ul li {
+	display: block;
+}
+
+h1 {text-align: left;
+     color: black;
+	 font-size: 80px;
+	 font-family: ariel;
+	 margin: 40px;
+	 margin-left: 40px
+	 } 
+	 
+p{
+
+   float: center;
+   margin-top: 100px;
+   margin-left: 20px;
+   margin-bottom: 0px;
+   margin-right: 10px;
+ }
+
+	
+	
+	
